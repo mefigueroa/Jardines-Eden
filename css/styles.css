@@ -1,0 +1,11 @@
+.img-logo{
+    height: 20px;
+}
+<style>
+    /* Selecciona el footer por su etiqueta, clase o id */
+    footer {
+        background-color: #080707; /* Cambia #ff0000 por el color que desees */
+        color: #050505; /* Cambia #ffffff por el color del texto que desees */
+        /* Otros estilos de diseño si los necesitas */
+    }
+</style>
